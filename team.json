@@ -1,21 +1,27 @@
-
+cat << 'EOF' > team.json
 {
-  "team_name": "DE Team",
+  "team_name": "ItsMeAgain",
   "members": [
     {
       "name": "Parushya Data",
-      "email": "parushyadata@example.com",
+      "email": "your_email@example.com",
       "github_handle": "parushyadata"
     },
     {
       "name": "Anjana Kamle",
-      "email": "anjanakamle@example.com",
+      "email": "anjana.k25059@nst.rishihood.edu.in",
       "github_handle": "AnjanaKamle"
     },
     {
       "name": "User 7217",
-      "email": "user7217@example.com",
+      "email": "sriharsha.m25456@nst.rishihood.edu.in",
       "github_handle": "user7217"
+    },
+    {
+      "name": "Aranav Chhabra",
+      "email": "aranav.c25676@nst.rishihood.edu.in",
+      "github_handle": ""
     }
   ]
 }
+EOF
