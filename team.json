@@ -1,0 +1,21 @@
+
+{
+  "team_name": "DE Team",
+  "members": [
+    {
+      "name": "Parushya Data",
+      "email": "parushyadata@example.com",
+      "github_handle": "parushyadata"
+    },
+    {
+      "name": "Anjana Kamle",
+      "email": "anjanakamle@example.com",
+      "github_handle": "AnjanaKamle"
+    },
+    {
+      "name": "User 7217",
+      "email": "user7217@example.com",
+      "github_handle": "user7217"
+    }
+  ]
+}
